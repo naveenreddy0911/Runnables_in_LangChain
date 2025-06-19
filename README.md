@@ -1,7 +1,6 @@
 # Runnables in LangChain
 
-This repository demonstrates how to use **Runnable components** in LangChain.  
-Runnable primitives allow you to construct flexible, reusable, and powerful chains by composing components together — much like Lego blocks.  
+This repository demonstrates how to use **Runnable components** in LangChain. Runnable primitives allow you to construct flexible, reusable, and powerful chains by composing components together — much like Lego blocks.  
 This lets you control flow, apply branching, execute in parallel, or simply pass through data in sophisticated workflows.
 
 ## 📄 File Descriptions
